@@ -1,4 +1,4 @@
-import pandas as pd
+﻿import pandas as pd
 import math
 from sqlalchemy import create_engine, text
 
@@ -61,4 +61,3 @@ upsert_sql = text("""
 with engine.begin() as conn:
     conn.execute(upsert_sql, rows)
     print(f"โหลดข้อมูลสำเร็จ {len(df)} แถว ✓")
-

@@ -1,0 +1,162 @@
+2026-06-12 20:09:22,272 - INFO - ETL START
+2026-06-12 20:09:22,396 - INFO - Connected PostgreSQL SUCCESS
+2026-06-12 20:09:22,397 - INFO - Running date 2026-06-12
+2026-06-12 20:09:22,527 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:22,541 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:22,555 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:24,002 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:25,676 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:27,338 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:27,719 - INFO - raw_data/FactFuelSales_2026.csv today rows = 648
+2026-06-12 20:09:27,922 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:28,350 - INFO - raw_data/FactFuelSales_2027.csv today rows = 0
+2026-06-12 20:09:28,389 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:28,879 - INFO - raw_data/FactFuelSales_2028.csv today rows = 0
+2026-06-12 20:09:28,880 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:29,003 - INFO - raw_data/FactCafeSales_2026.csv today rows = 208
+2026-06-12 20:09:29,059 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:29,193 - INFO - raw_data/FactCafeSales_2027.csv today rows = 0
+2026-06-12 20:09:29,193 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:29,343 - INFO - raw_data/FactCafeSales_2028.csv today rows = 0
+2026-06-12 20:09:29,344 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:29,449 - INFO - raw_data/FactStoreSales_2026.csv today rows = 222
+2026-06-12 20:09:29,519 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:29,647 - INFO - raw_data/FactStoreSales_2027.csv today rows = 0
+2026-06-12 20:09:29,647 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:29,795 - INFO - raw_data/FactStoreSales_2028.csv today rows = 0
+2026-06-12 20:09:29,795 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:31,251 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:32,705 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:34,312 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:09:34,312 - INFO - ETL COMPLETE
+2026-06-12 20:35:38,326 - INFO - ETL START
+2026-06-12 20:35:38,421 - INFO - Connected PostgreSQL SUCCESS
+2026-06-12 20:35:38,421 - INFO - Running date 2026-06-12
+2026-06-12 20:35:38,567 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:38,581 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:38,597 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:40,167 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:42,047 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:43,837 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:44,284 - INFO - raw_data/FactFuelSales_2026.csv today rows = 648
+2026-06-12 20:35:44,475 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:44,915 - INFO - raw_data/FactFuelSales_2027.csv today rows = 0
+2026-06-12 20:35:44,915 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:45,478 - INFO - raw_data/FactFuelSales_2028.csv today rows = 0
+2026-06-12 20:35:45,478 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:45,600 - INFO - raw_data/FactCafeSales_2026.csv today rows = 208
+2026-06-12 20:35:45,672 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:45,814 - INFO - raw_data/FactCafeSales_2027.csv today rows = 0
+2026-06-12 20:35:45,815 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:45,966 - INFO - raw_data/FactCafeSales_2028.csv today rows = 0
+2026-06-12 20:35:45,966 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:46,082 - INFO - raw_data/FactStoreSales_2026.csv today rows = 222
+2026-06-12 20:35:46,162 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:46,336 - INFO - raw_data/FactStoreSales_2027.csv today rows = 0
+2026-06-12 20:35:46,336 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:46,487 - INFO - raw_data/FactStoreSales_2028.csv today rows = 0
+2026-06-12 20:35:46,487 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:48,105 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:49,784 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:51,531 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:35:51,531 - INFO - ETL COMPLETE
+2026-06-12 20:37:42,646 - INFO - ETL START
+2026-06-12 20:37:42,746 - INFO - Connected PostgreSQL SUCCESS
+2026-06-12 20:37:42,746 - INFO - Running date 2026-06-12
+2026-06-12 20:37:43,037 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:43,052 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:43,068 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:44,670 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:46,573 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:48,437 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:48,821 - INFO - raw_data/FactFuelSales_2026.csv today rows = 648
+2026-06-12 20:37:49,036 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:49,479 - INFO - raw_data/FactFuelSales_2027.csv today rows = 0
+2026-06-12 20:37:49,991 - INFO - raw_data/FactFuelSales_2028.csv today rows = 0
+2026-06-12 20:37:50,120 - INFO - raw_data/FactCafeSales_2026.csv today rows = 208
+2026-06-12 20:37:50,208 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:50,341 - INFO - raw_data/FactCafeSales_2027.csv today rows = 0
+2026-06-12 20:37:50,495 - INFO - raw_data/FactCafeSales_2028.csv today rows = 0
+2026-06-12 20:37:50,605 - INFO - raw_data/FactStoreSales_2026.csv today rows = 222
+2026-06-12 20:37:50,684 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:50,811 - INFO - raw_data/FactStoreSales_2027.csv today rows = 0
+2026-06-12 20:37:50,964 - INFO - raw_data/FactStoreSales_2028.csv today rows = 0
+2026-06-12 20:37:52,561 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:54,236 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:56,063 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 20:37:56,063 - INFO - ETL COMPLETE
+2026-06-12 21:41:10,884 - INFO - ETL START
+2026-06-12 21:41:10,967 - INFO - Connected PostgreSQL SUCCESS
+2026-06-12 21:41:10,967 - INFO - Running date 2026-06-12
+2026-06-12 21:41:11,112 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:11,126 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:11,139 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:12,653 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:14,424 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:16,280 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:16,723 - INFO - raw_data/FactFuelSales_2026.csv today rows = 648
+2026-06-12 21:41:16,948 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:17,409 - INFO - raw_data/FactFuelSales_2027.csv today rows = 0
+2026-06-12 21:41:17,944 - INFO - raw_data/FactFuelSales_2028.csv today rows = 0
+2026-06-12 21:41:18,087 - INFO - raw_data/FactCafeSales_2026.csv today rows = 208
+2026-06-12 21:41:18,192 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:18,340 - INFO - raw_data/FactCafeSales_2027.csv today rows = 0
+2026-06-12 21:41:18,506 - INFO - raw_data/FactCafeSales_2028.csv today rows = 0
+2026-06-12 21:41:18,631 - INFO - raw_data/FactStoreSales_2026.csv today rows = 222
+2026-06-12 21:41:18,711 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:18,844 - INFO - raw_data/FactStoreSales_2027.csv today rows = 0
+2026-06-12 21:41:18,998 - INFO - raw_data/FactStoreSales_2028.csv today rows = 0
+2026-06-12 21:41:20,564 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:22,244 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:24,027 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:24,027 - INFO - ETL COMPLETE
+2026-06-12 21:41:27,674 - INFO - ETL START
+2026-06-12 21:41:27,754 - INFO - Connected PostgreSQL SUCCESS
+2026-06-12 21:41:27,754 - INFO - Running date 2026-06-12
+2026-06-12 21:41:27,883 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:27,897 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:27,910 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:29,457 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:31,326 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:33,216 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:33,608 - INFO - raw_data/FactFuelSales_2026.csv today rows = 648
+2026-06-12 21:41:33,815 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:34,292 - INFO - raw_data/FactFuelSales_2027.csv today rows = 0
+2026-06-12 21:41:34,943 - INFO - raw_data/FactFuelSales_2028.csv today rows = 0
+2026-06-12 21:41:35,121 - INFO - raw_data/FactCafeSales_2026.csv today rows = 208
+2026-06-12 21:41:35,196 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:35,389 - INFO - raw_data/FactCafeSales_2027.csv today rows = 0
+2026-06-12 21:41:35,630 - INFO - raw_data/FactCafeSales_2028.csv today rows = 0
+2026-06-12 21:41:35,786 - INFO - raw_data/FactStoreSales_2026.csv today rows = 222
+2026-06-12 21:41:35,848 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:35,984 - INFO - raw_data/FactStoreSales_2027.csv today rows = 0
+2026-06-12 21:41:36,163 - INFO - raw_data/FactStoreSales_2028.csv today rows = 0
+2026-06-12 21:41:37,780 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:39,494 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:41,244 - INFO - Load PostgreSQL SUCCESS
+2026-06-12 21:41:41,244 - INFO - ETL COMPLETE
+2026-06-13 01:43:26,977 - INFO - ETL START
+2026-06-13 01:43:27,063 - INFO - Connected PostgreSQL SUCCESS
+2026-06-13 01:43:27,064 - INFO - Running date 2026-06-13
+2026-06-13 01:43:27,233 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:27,247 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:27,275 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:28,673 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:30,205 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:31,818 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:32,170 - INFO - raw_data/FactFuelSales_2026.csv today rows = 614
+2026-06-13 01:43:32,478 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:32,909 - INFO - raw_data/FactFuelSales_2027.csv today rows = 0
+2026-06-13 01:43:33,397 - INFO - raw_data/FactFuelSales_2028.csv today rows = 0
+2026-06-13 01:43:33,511 - INFO - raw_data/FactCafeSales_2026.csv today rows = 230
+2026-06-13 01:43:33,688 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:33,815 - INFO - raw_data/FactCafeSales_2027.csv today rows = 0
+2026-06-13 01:43:33,957 - INFO - raw_data/FactCafeSales_2028.csv today rows = 0
+2026-06-13 01:43:34,063 - INFO - raw_data/FactStoreSales_2026.csv today rows = 215
+2026-06-13 01:43:34,195 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:34,317 - INFO - raw_data/FactStoreSales_2027.csv today rows = 0
+2026-06-13 01:43:34,458 - INFO - raw_data/FactStoreSales_2028.csv today rows = 0
+2026-06-13 01:43:35,822 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:37,277 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:38,823 - INFO - Load PostgreSQL SUCCESS
+2026-06-13 01:43:38,823 - INFO - ETL COMPLETE
